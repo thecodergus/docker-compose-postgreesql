@@ -22,8 +22,8 @@ This Compose file contains the following environment variables:
 
 ## Access to postgres: 
 * `localhost:5432`
-* **Username:** postgres (as a default)
-* **Password:** changeme (as a default)
+* **Username:** admin
+* **Password:** admin
 
 ## Access to PgAdmin: 
 * **URL:** `http://localhost:5050`
