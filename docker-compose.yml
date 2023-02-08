@@ -16,7 +16,7 @@ services:
     restart: always
   
   pgadmin:
-    image: dpage/pgadmin4:6.14
+    image: dpage/pgadmin4:6.19
     environment:
       PGADMIN_DEFAULT_EMAIL: pgadmin4@pgadmin.org
       PGADMIN_DEFAULT_PASSWORD: admin
