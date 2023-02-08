@@ -30,7 +30,7 @@ services:
       - postgres_net
     restart: always
     depends_on:
-      - bd
+      - postgres
 
 networks:
   postgres_net:
